@@ -1,0 +1,30 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://goodenuf.jpg" type="Texture" id=1]
+
+[sub_resource type="Shader" id=1]
+code = "shader_type canvas_item;
+
+void fragment(){
+	
+	vec4 screen_pixel = texture(SCREEN_TEXTURE, SCREEN_UV);
+	float brightness = (screen_pixel.r + screen_pixel.g + screen_pixel.b)/3.0;
+	vec4 grayScale = vec4(brightness, brightness, brightness, screen_pixel.a);
+	COLOR = grayScale;
+}"
+
+[sub_resource type="ShaderMaterial" id=2]
+shader = SubResource( 1 )
+
+[sub_resource type="ShaderMaterial" id=4]
+
+[node name="TextureRect" type="TextureRect"]
+modulate = Color( 0.772549, 1, 1, 1 )
+material = SubResource( 2 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Goodenuf" type="Sprite" parent="."]
+material = SubResource( 4 )
+position = Vector2( 954, 526 )
+texture = ExtResource( 1 )

@@ -1,0 +1,10368 @@
+type: empty
+uid: 0
+x: 0
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1
+x: 1
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 2
+x: 2
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 3
+x: 3
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 4
+x: 4
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 5
+x: 5
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 6
+x: 6
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 7
+x: 7
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 8
+x: 8
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 9
+x: 9
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 10
+x: 10
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 11
+x: 11
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 12
+x: 12
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 13
+x: 13
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 14
+x: 14
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 15
+x: 15
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 16
+x: 16
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 17
+x: 17
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 18
+x: 18
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 19
+x: 19
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 20
+x: 20
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 21
+x: 21
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 22
+x: 22
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 23
+x: 23
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 24
+x: 24
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 25
+x: 25
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 26
+x: 26
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 27
+x: 27
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 28
+x: 28
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 29
+x: 29
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 30
+x: 30
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 31
+x: 31
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 32
+x: 32
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 33
+x: 33
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 34
+x: 34
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 35
+x: 35
+y: 0
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 36
+x: 0
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 37
+x: 1
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 38
+x: 2
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 39
+x: 3
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 40
+x: 4
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 41
+x: 5
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 42
+x: 6
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 43
+x: 7
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 44
+x: 8
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 45
+x: 9
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 46
+x: 10
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 47
+x: 11
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 48
+x: 12
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 49
+x: 13
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 50
+x: 14
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 51
+x: 15
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 52
+x: 16
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 53
+x: 17
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 54
+x: 18
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 55
+x: 19
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 56
+x: 20
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 57
+x: 21
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 58
+x: 22
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 59
+x: 23
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 60
+x: 24
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 61
+x: 25
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 62
+x: 26
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 63
+x: 27
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 64
+x: 28
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 65
+x: 29
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 66
+x: 30
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 67
+x: 31
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 68
+x: 32
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 69
+x: 33
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 70
+x: 34
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 71
+x: 35
+y: 1
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 72
+x: 0
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 73
+x: 1
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 74
+x: 2
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 75
+x: 3
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 76
+x: 4
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 77
+x: 5
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 78
+x: 6
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 79
+x: 7
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 80
+x: 8
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 81
+x: 9
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 82
+x: 10
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 83
+x: 11
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 84
+x: 12
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 85
+x: 13
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 86
+x: 14
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 87
+x: 15
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 88
+x: 16
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 89
+x: 17
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 90
+x: 18
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 91
+x: 19
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 92
+x: 20
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 93
+x: 21
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 94
+x: 22
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 95
+x: 23
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: l
+uid: 96
+x: 24
+y: 2
+graphID: 11
+coupleID: 0
+actChildren: -10
+
+type: floor
+uid: 97
+x: 25
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 98
+x: 26
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 99
+x: 27
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 100
+x: 28
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 101
+x: 29
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 102
+x: 30
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 103
+x: 31
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 104
+x: 32
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 105
+x: 33
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 106
+x: 34
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 107
+x: 35
+y: 2
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 108
+x: 0
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 109
+x: 1
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 110
+x: 2
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 111
+x: 3
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 112
+x: 4
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 113
+x: 5
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 114
+x: 6
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 115
+x: 7
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 116
+x: 8
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 117
+x: 9
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 118
+x: 10
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 119
+x: 11
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 120
+x: 12
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 121
+x: 13
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 122
+x: 14
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: tp
+uid: 123
+x: 15
+y: 3
+graphID: 5
+coupleID: 0
+actChildren: 
+
+type: floor
+uid: 124
+x: 16
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 125
+x: 17
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 126
+x: 18
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 127
+x: 19
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 128
+x: 20
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 129
+x: 21
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 130
+x: 22
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 131
+x: 23
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: l
+uid: 132
+x: 24
+y: 3
+graphID: 11
+coupleID: 0
+actChildren: -10
+
+type: floor
+uid: 133
+x: 25
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 134
+x: 26
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 135
+x: 27
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 136
+x: 28
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 137
+x: 29
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 138
+x: 30
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 139
+x: 31
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 140
+x: 32
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 141
+x: 33
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 142
+x: 34
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 143
+x: 35
+y: 3
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 144
+x: 0
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 145
+x: 1
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 146
+x: 2
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 147
+x: 3
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 148
+x: 4
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 149
+x: 5
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 150
+x: 6
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 151
+x: 7
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 152
+x: 8
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 153
+x: 9
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 154
+x: 10
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 155
+x: 11
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 156
+x: 12
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 157
+x: 13
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 158
+x: 14
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 159
+x: 15
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 160
+x: 16
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 161
+x: 17
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 162
+x: 18
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 163
+x: 19
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 164
+x: 20
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 165
+x: 21
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 166
+x: 22
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 167
+x: 23
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 168
+x: 24
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 169
+x: 25
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 170
+x: 26
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 171
+x: 27
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 172
+x: 28
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 173
+x: 29
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 174
+x: 30
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 175
+x: 31
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 176
+x: 32
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 177
+x: 33
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 178
+x: 34
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 179
+x: 35
+y: 4
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 180
+x: 0
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 181
+x: 1
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 182
+x: 2
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 183
+x: 3
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 184
+x: 4
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 185
+x: 5
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 186
+x: 6
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 187
+x: 7
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 188
+x: 8
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 189
+x: 9
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 190
+x: 10
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 191
+x: 11
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 192
+x: 12
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 193
+x: 13
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 194
+x: 14
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 195
+x: 15
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 196
+x: 16
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 197
+x: 17
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 198
+x: 18
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 199
+x: 19
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 200
+x: 20
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 201
+x: 21
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 202
+x: 22
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 203
+x: 23
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 204
+x: 24
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 205
+x: 25
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 206
+x: 26
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 207
+x: 27
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 208
+x: 28
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 209
+x: 29
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 210
+x: 30
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 211
+x: 31
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 212
+x: 32
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 213
+x: 33
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 214
+x: 34
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 215
+x: 35
+y: 5
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 216
+x: 0
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 217
+x: 1
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 218
+x: 2
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 219
+x: 3
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 220
+x: 4
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 221
+x: 5
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 222
+x: 6
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 223
+x: 7
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 224
+x: 8
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 225
+x: 9
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 226
+x: 10
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 227
+x: 11
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 228
+x: 12
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 229
+x: 13
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 230
+x: 14
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 231
+x: 15
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 232
+x: 16
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 233
+x: 17
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 234
+x: 18
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 235
+x: 19
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 236
+x: 20
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 237
+x: 21
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 238
+x: 22
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 239
+x: 23
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 240
+x: 24
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 241
+x: 25
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 242
+x: 26
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 243
+x: 27
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 244
+x: 28
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 245
+x: 29
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 246
+x: 30
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 247
+x: 31
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 248
+x: 32
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 249
+x: 33
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 250
+x: 34
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 251
+x: 35
+y: 6
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 252
+x: 0
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 253
+x: 1
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 254
+x: 2
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 255
+x: 3
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 256
+x: 4
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 257
+x: 5
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 258
+x: 6
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 259
+x: 7
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 260
+x: 8
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 261
+x: 9
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 262
+x: 10
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 263
+x: 11
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 264
+x: 12
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 265
+x: 13
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 266
+x: 14
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 267
+x: 15
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 268
+x: 16
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 269
+x: 17
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 270
+x: 18
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 271
+x: 19
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 272
+x: 20
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 273
+x: 21
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 274
+x: 22
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 275
+x: 23
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 276
+x: 24
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 277
+x: 25
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 278
+x: 26
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 279
+x: 27
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 280
+x: 28
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 281
+x: 29
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 282
+x: 30
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 283
+x: 31
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 284
+x: 32
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 285
+x: 33
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 286
+x: 34
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 287
+x: 35
+y: 7
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 288
+x: 0
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 289
+x: 1
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 290
+x: 2
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 291
+x: 3
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 292
+x: 4
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 293
+x: 5
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 294
+x: 6
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 295
+x: 7
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 296
+x: 8
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 297
+x: 9
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 298
+x: 10
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 299
+x: 11
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 300
+x: 12
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 301
+x: 13
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 302
+x: 14
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 303
+x: 15
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 304
+x: 16
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 305
+x: 17
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 306
+x: 18
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 307
+x: 19
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 308
+x: 20
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 309
+x: 21
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 310
+x: 22
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 311
+x: 23
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 312
+x: 24
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 313
+x: 25
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 314
+x: 26
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 315
+x: 27
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 316
+x: 28
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 317
+x: 29
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 318
+x: 30
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 319
+x: 31
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 320
+x: 32
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 321
+x: 33
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 322
+x: 34
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 323
+x: 35
+y: 8
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 324
+x: 0
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 325
+x: 1
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 326
+x: 2
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 327
+x: 3
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 328
+x: 4
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 329
+x: 5
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 330
+x: 6
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 331
+x: 7
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 332
+x: 8
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: e
+uid: 333
+x: 9
+y: 9
+graphID: 0
+coupleID: 0
+actChildren: 
+
+type: floor
+uid: 334
+x: 10
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 335
+x: 11
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 336
+x: 12
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 337
+x: 13
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 338
+x: 14
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: tp
+uid: 339
+x: 15
+y: 9
+graphID: 1
+coupleID: 0
+actChildren: 
+
+type: floor
+uid: 340
+x: 16
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 341
+x: 17
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 342
+x: 18
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 343
+x: 19
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 344
+x: 20
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 345
+x: 21
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 346
+x: 22
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 347
+x: 23
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 348
+x: 24
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 349
+x: 25
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 350
+x: 26
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: pi
+uid: 351
+x: 27
+y: 9
+graphID: 9
+coupleID: 10
+actChildren: -3
+
+type: floor
+uid: 352
+x: 28
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 353
+x: 29
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 354
+x: 30
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 355
+x: 31
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 356
+x: 32
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: k
+uid: 357
+x: 33
+y: 9
+graphID: 10
+coupleID: 0
+actChildren: 
+
+type: floor
+uid: 358
+x: 34
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 359
+x: 35
+y: 9
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 360
+x: 0
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 361
+x: 1
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 362
+x: 2
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 363
+x: 3
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 364
+x: 4
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 365
+x: 5
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 366
+x: 6
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 367
+x: 7
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 368
+x: 8
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 369
+x: 9
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 370
+x: 10
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 371
+x: 11
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 372
+x: 12
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 373
+x: 13
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 374
+x: 14
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 375
+x: 15
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 376
+x: 16
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 377
+x: 17
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 378
+x: 18
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 379
+x: 19
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 380
+x: 20
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 381
+x: 21
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 382
+x: 22
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 383
+x: 23
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 384
+x: 24
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 385
+x: 25
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 386
+x: 26
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 387
+x: 27
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 388
+x: 28
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 389
+x: 29
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 390
+x: 30
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 391
+x: 31
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 392
+x: 32
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 393
+x: 33
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 394
+x: 34
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 395
+x: 35
+y: 10
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 396
+x: 0
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 397
+x: 1
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 398
+x: 2
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 399
+x: 3
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 400
+x: 4
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 401
+x: 5
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 402
+x: 6
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 403
+x: 7
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 404
+x: 8
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 405
+x: 9
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 406
+x: 10
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 407
+x: 11
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 408
+x: 12
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 409
+x: 13
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 410
+x: 14
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 411
+x: 15
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 412
+x: 16
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 413
+x: 17
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 414
+x: 18
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 415
+x: 19
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 416
+x: 20
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 417
+x: 21
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 418
+x: 22
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 419
+x: 23
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 420
+x: 24
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 421
+x: 25
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 422
+x: 26
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 423
+x: 27
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 424
+x: 28
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 425
+x: 29
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 426
+x: 30
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 427
+x: 31
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 428
+x: 32
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 429
+x: 33
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 430
+x: 34
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 431
+x: 35
+y: 11
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 432
+x: 0
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 433
+x: 1
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 434
+x: 2
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 435
+x: 3
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 436
+x: 4
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 437
+x: 5
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 438
+x: 6
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 439
+x: 7
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 440
+x: 8
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 441
+x: 9
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 442
+x: 10
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 443
+x: 11
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 444
+x: 12
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 445
+x: 13
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 446
+x: 14
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 447
+x: 15
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 448
+x: 16
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 449
+x: 17
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 450
+x: 18
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 451
+x: 19
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 452
+x: 20
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 453
+x: 21
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 454
+x: 22
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 455
+x: 23
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 456
+x: 24
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 457
+x: 25
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 458
+x: 26
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 459
+x: 27
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 460
+x: 28
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 461
+x: 29
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 462
+x: 30
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 463
+x: 31
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 464
+x: 32
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 465
+x: 33
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 466
+x: 34
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 467
+x: 35
+y: 12
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 468
+x: 0
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 469
+x: 1
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 470
+x: 2
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 471
+x: 3
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 472
+x: 4
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 473
+x: 5
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 474
+x: 6
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 475
+x: 7
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 476
+x: 8
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 477
+x: 9
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 478
+x: 10
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 479
+x: 11
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 480
+x: 12
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 481
+x: 13
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 482
+x: 14
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 483
+x: 15
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 484
+x: 16
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 485
+x: 17
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 486
+x: 18
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 487
+x: 19
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 488
+x: 20
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 489
+x: 21
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 490
+x: 22
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 491
+x: 23
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 492
+x: 24
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 493
+x: 25
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 494
+x: 26
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 495
+x: 27
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 496
+x: 28
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 497
+x: 29
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 498
+x: 30
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 499
+x: 31
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 500
+x: 32
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 501
+x: 33
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 502
+x: 34
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 503
+x: 35
+y: 13
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 504
+x: 0
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 505
+x: 1
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 506
+x: 2
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 507
+x: 3
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 508
+x: 4
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 509
+x: 5
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 510
+x: 6
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 511
+x: 7
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 512
+x: 8
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 513
+x: 9
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 514
+x: 10
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 515
+x: 11
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 516
+x: 12
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 517
+x: 13
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 518
+x: 14
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 519
+x: 15
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 520
+x: 16
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 521
+x: 17
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 522
+x: 18
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 523
+x: 19
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 524
+x: 20
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 525
+x: 21
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 526
+x: 22
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 527
+x: 23
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 528
+x: 24
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 529
+x: 25
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 530
+x: 26
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 531
+x: 27
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 532
+x: 28
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 533
+x: 29
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 534
+x: 30
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 535
+x: 31
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 536
+x: 32
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 537
+x: 33
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 538
+x: 34
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 539
+x: 35
+y: 14
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 540
+x: 0
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 541
+x: 1
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 542
+x: 2
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 543
+x: 3
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 544
+x: 4
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 545
+x: 5
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 546
+x: 6
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 547
+x: 7
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 548
+x: 8
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 549
+x: 9
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 550
+x: 10
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 551
+x: 11
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 552
+x: 12
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 553
+x: 13
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 554
+x: 14
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: pp
+uid: 555
+x: 15
+y: 15
+graphID: 3
+coupleID: 0
+actChildren: 
+
+type: floor
+uid: 556
+x: 16
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 557
+x: 17
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 558
+x: 18
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 559
+x: 19
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 560
+x: 20
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: pp
+uid: 561
+x: 21
+y: 15
+graphID: 12
+coupleID: 0
+actChildren: 
+
+type: floor
+uid: 562
+x: 22
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 563
+x: 23
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 564
+x: 24
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 565
+x: 25
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 566
+x: 26
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 567
+x: 27
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 568
+x: 28
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 569
+x: 29
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 570
+x: 30
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 571
+x: 31
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 572
+x: 32
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 573
+x: 33
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 574
+x: 34
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 575
+x: 35
+y: 15
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 576
+x: 0
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 577
+x: 1
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 578
+x: 2
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 579
+x: 3
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 580
+x: 4
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 581
+x: 5
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 582
+x: 6
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 583
+x: 7
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 584
+x: 8
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 585
+x: 9
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 586
+x: 10
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 587
+x: 11
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 588
+x: 12
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 589
+x: 13
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 590
+x: 14
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 591
+x: 15
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 592
+x: 16
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 593
+x: 17
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 594
+x: 18
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 595
+x: 19
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 596
+x: 20
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 597
+x: 21
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 598
+x: 22
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 599
+x: 23
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 600
+x: 24
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 601
+x: 25
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 602
+x: 26
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 603
+x: 27
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 604
+x: 28
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 605
+x: 29
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 606
+x: 30
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 607
+x: 31
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 608
+x: 32
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 609
+x: 33
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 610
+x: 34
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 611
+x: 35
+y: 16
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 612
+x: 0
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 613
+x: 1
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 614
+x: 2
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 615
+x: 3
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 616
+x: 4
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 617
+x: 5
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 618
+x: 6
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 619
+x: 7
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 620
+x: 8
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 621
+x: 9
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 622
+x: 10
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 623
+x: 11
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 624
+x: 12
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 625
+x: 13
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 626
+x: 14
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 627
+x: 15
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 628
+x: 16
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 629
+x: 17
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 630
+x: 18
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 631
+x: 19
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 632
+x: 20
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 633
+x: 21
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 634
+x: 22
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 635
+x: 23
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 636
+x: 24
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 637
+x: 25
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 638
+x: 26
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 639
+x: 27
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 640
+x: 28
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 641
+x: 29
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 642
+x: 30
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 643
+x: 31
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 644
+x: 32
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 645
+x: 33
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 646
+x: 34
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 647
+x: 35
+y: 17
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 648
+x: 0
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 649
+x: 1
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 650
+x: 2
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 651
+x: 3
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 652
+x: 4
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 653
+x: 5
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 654
+x: 6
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 655
+x: 7
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 656
+x: 8
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 657
+x: 9
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 658
+x: 10
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 659
+x: 11
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 660
+x: 12
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 661
+x: 13
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 662
+x: 14
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 663
+x: 15
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 664
+x: 16
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 665
+x: 17
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 666
+x: 18
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 667
+x: 19
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 668
+x: 20
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 669
+x: 21
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 670
+x: 22
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 671
+x: 23
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 672
+x: 24
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 673
+x: 25
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 674
+x: 26
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 675
+x: 27
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 676
+x: 28
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 677
+x: 29
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 678
+x: 30
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 679
+x: 31
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 680
+x: 32
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 681
+x: 33
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 682
+x: 34
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 683
+x: 35
+y: 18
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 684
+x: 0
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 685
+x: 1
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 686
+x: 2
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 687
+x: 3
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 688
+x: 4
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 689
+x: 5
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 690
+x: 6
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 691
+x: 7
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 692
+x: 8
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 693
+x: 9
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 694
+x: 10
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 695
+x: 11
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 696
+x: 12
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 697
+x: 13
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 698
+x: 14
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 699
+x: 15
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 700
+x: 16
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 701
+x: 17
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 702
+x: 18
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 703
+x: 19
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 704
+x: 20
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 705
+x: 21
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 706
+x: 22
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 707
+x: 23
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 708
+x: 24
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 709
+x: 25
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 710
+x: 26
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 711
+x: 27
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 712
+x: 28
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 713
+x: 29
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 714
+x: 30
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 715
+x: 31
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 716
+x: 32
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 717
+x: 33
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 718
+x: 34
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 719
+x: 35
+y: 19
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 720
+x: 0
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 721
+x: 1
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 722
+x: 2
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 723
+x: 3
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 724
+x: 4
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 725
+x: 5
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 726
+x: 6
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 727
+x: 7
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 728
+x: 8
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 729
+x: 9
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 730
+x: 10
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 731
+x: 11
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 732
+x: 12
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 733
+x: 13
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 734
+x: 14
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 735
+x: 15
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 736
+x: 16
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 737
+x: 17
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 738
+x: 18
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 739
+x: 19
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 740
+x: 20
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 741
+x: 21
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 742
+x: 22
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 743
+x: 23
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 744
+x: 24
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 745
+x: 25
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 746
+x: 26
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 747
+x: 27
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 748
+x: 28
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 749
+x: 29
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 750
+x: 30
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 751
+x: 31
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 752
+x: 32
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 753
+x: 33
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 754
+x: 34
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 755
+x: 35
+y: 20
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 756
+x: 0
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 757
+x: 1
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 758
+x: 2
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 759
+x: 3
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 760
+x: 4
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 761
+x: 5
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 762
+x: 6
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 763
+x: 7
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 764
+x: 8
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 765
+x: 9
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 766
+x: 10
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 767
+x: 11
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 768
+x: 12
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 769
+x: 13
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 770
+x: 14
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: pi
+uid: 771
+x: 15
+y: 21
+graphID: 13
+coupleID: 14
+actChildren: -12
+
+type: floor
+uid: 772
+x: 16
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 773
+x: 17
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 774
+x: 18
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 775
+x: 19
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 776
+x: 20
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: k
+uid: 777
+x: 21
+y: 21
+graphID: 6
+coupleID: 0
+actChildren: 
+
+type: floor
+uid: 778
+x: 22
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 779
+x: 23
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 780
+x: 24
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 781
+x: 25
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 782
+x: 26
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 783
+x: 27
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 784
+x: 28
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 785
+x: 29
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 786
+x: 30
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 787
+x: 31
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 788
+x: 32
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 789
+x: 33
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 790
+x: 34
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 791
+x: 35
+y: 21
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 792
+x: 0
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 793
+x: 1
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 794
+x: 2
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 795
+x: 3
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 796
+x: 4
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 797
+x: 5
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 798
+x: 6
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 799
+x: 7
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 800
+x: 8
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 801
+x: 9
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 802
+x: 10
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 803
+x: 11
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 804
+x: 12
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 805
+x: 13
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 806
+x: 14
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 807
+x: 15
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 808
+x: 16
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 809
+x: 17
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 810
+x: 18
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 811
+x: 19
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 812
+x: 20
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 813
+x: 21
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 814
+x: 22
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 815
+x: 23
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 816
+x: 24
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 817
+x: 25
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 818
+x: 26
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 819
+x: 27
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 820
+x: 28
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 821
+x: 29
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 822
+x: 30
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 823
+x: 31
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 824
+x: 32
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 825
+x: 33
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 826
+x: 34
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 827
+x: 35
+y: 22
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 828
+x: 0
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 829
+x: 1
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 830
+x: 2
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 831
+x: 3
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 832
+x: 4
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 833
+x: 5
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 834
+x: 6
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 835
+x: 7
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 836
+x: 8
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 837
+x: 9
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 838
+x: 10
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 839
+x: 11
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 840
+x: 12
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 841
+x: 13
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 842
+x: 14
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 843
+x: 15
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 844
+x: 16
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 845
+x: 17
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 846
+x: 18
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 847
+x: 19
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 848
+x: 20
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 849
+x: 21
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 850
+x: 22
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 851
+x: 23
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 852
+x: 24
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 853
+x: 25
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 854
+x: 26
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 855
+x: 27
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 856
+x: 28
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 857
+x: 29
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 858
+x: 30
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 859
+x: 31
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 860
+x: 32
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 861
+x: 33
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 862
+x: 34
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 863
+x: 35
+y: 23
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 864
+x: 0
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 865
+x: 1
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 866
+x: 2
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 867
+x: 3
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 868
+x: 4
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 869
+x: 5
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 870
+x: 6
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 871
+x: 7
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 872
+x: 8
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 873
+x: 9
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 874
+x: 10
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 875
+x: 11
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 876
+x: 12
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 877
+x: 13
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 878
+x: 14
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 879
+x: 15
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 880
+x: 16
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 881
+x: 17
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 882
+x: 18
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 883
+x: 19
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 884
+x: 20
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 885
+x: 21
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 886
+x: 22
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 887
+x: 23
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 888
+x: 24
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 889
+x: 25
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 890
+x: 26
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 891
+x: 27
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 892
+x: 28
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 893
+x: 29
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 894
+x: 30
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 895
+x: 31
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 896
+x: 32
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 897
+x: 33
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 898
+x: 34
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 899
+x: 35
+y: 24
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 900
+x: 0
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 901
+x: 1
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 902
+x: 2
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 903
+x: 3
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 904
+x: 4
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 905
+x: 5
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 906
+x: 6
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 907
+x: 7
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 908
+x: 8
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 909
+x: 9
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 910
+x: 10
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 911
+x: 11
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 912
+x: 12
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 913
+x: 13
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 914
+x: 14
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 915
+x: 15
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 916
+x: 16
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 917
+x: 17
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 918
+x: 18
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 919
+x: 19
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 920
+x: 20
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 921
+x: 21
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 922
+x: 22
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 923
+x: 23
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 924
+x: 24
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 925
+x: 25
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 926
+x: 26
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 927
+x: 27
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 928
+x: 28
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 929
+x: 29
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 930
+x: 30
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 931
+x: 31
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 932
+x: 32
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 933
+x: 33
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 934
+x: 34
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 935
+x: 35
+y: 25
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 936
+x: 0
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 937
+x: 1
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 938
+x: 2
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 939
+x: 3
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 940
+x: 4
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 941
+x: 5
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 942
+x: 6
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 943
+x: 7
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 944
+x: 8
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 945
+x: 9
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 946
+x: 10
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 947
+x: 11
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 948
+x: 12
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 949
+x: 13
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 950
+x: 14
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 951
+x: 15
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 952
+x: 16
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 953
+x: 17
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 954
+x: 18
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 955
+x: 19
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 956
+x: 20
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 957
+x: 21
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 958
+x: 22
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 959
+x: 23
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 960
+x: 24
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 961
+x: 25
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 962
+x: 26
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 963
+x: 27
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 964
+x: 28
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 965
+x: 29
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 966
+x: 30
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 967
+x: 31
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 968
+x: 32
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 969
+x: 33
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 970
+x: 34
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 971
+x: 35
+y: 26
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 972
+x: 0
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 973
+x: 1
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 974
+x: 2
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 975
+x: 3
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 976
+x: 4
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 977
+x: 5
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 978
+x: 6
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 979
+x: 7
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 980
+x: 8
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 981
+x: 9
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 982
+x: 10
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 983
+x: 11
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 984
+x: 12
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 985
+x: 13
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 986
+x: 14
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: pr
+uid: 987
+x: 15
+y: 27
+graphID: 14
+coupleID: 0
+actChildren: 
+
+type: floor
+uid: 988
+x: 16
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 989
+x: 17
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 990
+x: 18
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 991
+x: 19
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 992
+x: 20
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 993
+x: 21
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 994
+x: 22
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 995
+x: 23
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 996
+x: 24
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 997
+x: 25
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 998
+x: 26
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 999
+x: 27
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1000
+x: 28
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1001
+x: 29
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1002
+x: 30
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1003
+x: 31
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1004
+x: 32
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1005
+x: 33
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1006
+x: 34
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1007
+x: 35
+y: 27
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1008
+x: 0
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1009
+x: 1
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1010
+x: 2
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1011
+x: 3
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1012
+x: 4
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1013
+x: 5
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1014
+x: 6
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1015
+x: 7
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1016
+x: 8
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1017
+x: 9
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1018
+x: 10
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1019
+x: 11
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1020
+x: 12
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1021
+x: 13
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1022
+x: 14
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1023
+x: 15
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1024
+x: 16
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1025
+x: 17
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1026
+x: 18
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1027
+x: 19
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1028
+x: 20
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1029
+x: 21
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1030
+x: 22
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1031
+x: 23
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1032
+x: 24
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1033
+x: 25
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1034
+x: 26
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1035
+x: 27
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1036
+x: 28
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1037
+x: 29
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1038
+x: 30
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1039
+x: 31
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1040
+x: 32
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1041
+x: 33
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1042
+x: 34
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1043
+x: 35
+y: 28
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1044
+x: 0
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1045
+x: 1
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1046
+x: 2
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1047
+x: 3
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1048
+x: 4
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1049
+x: 5
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1050
+x: 6
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1051
+x: 7
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1052
+x: 8
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1053
+x: 9
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1054
+x: 10
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1055
+x: 11
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1056
+x: 12
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1057
+x: 13
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1058
+x: 14
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1059
+x: 15
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1060
+x: 16
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1061
+x: 17
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1062
+x: 18
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1063
+x: 19
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1064
+x: 20
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1065
+x: 21
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1066
+x: 22
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1067
+x: 23
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1068
+x: 24
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1069
+x: 25
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1070
+x: 26
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1071
+x: 27
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1072
+x: 28
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1073
+x: 29
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1074
+x: 30
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1075
+x: 31
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1076
+x: 32
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1077
+x: 33
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1078
+x: 34
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1079
+x: 35
+y: 29
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1080
+x: 0
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1081
+x: 1
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1082
+x: 2
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1083
+x: 3
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1084
+x: 4
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1085
+x: 5
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1086
+x: 6
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1087
+x: 7
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1088
+x: 8
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1089
+x: 9
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1090
+x: 10
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1091
+x: 11
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1092
+x: 12
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1093
+x: 13
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1094
+x: 14
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1095
+x: 15
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1096
+x: 16
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1097
+x: 17
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1098
+x: 18
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1099
+x: 19
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1100
+x: 20
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1101
+x: 21
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1102
+x: 22
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1103
+x: 23
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1104
+x: 24
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1105
+x: 25
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1106
+x: 26
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1107
+x: 27
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1108
+x: 28
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1109
+x: 29
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1110
+x: 30
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1111
+x: 31
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1112
+x: 32
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1113
+x: 33
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1114
+x: 34
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1115
+x: 35
+y: 30
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1116
+x: 0
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1117
+x: 1
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1118
+x: 2
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1119
+x: 3
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1120
+x: 4
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1121
+x: 5
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1122
+x: 6
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1123
+x: 7
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1124
+x: 8
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1125
+x: 9
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1126
+x: 10
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1127
+x: 11
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1128
+x: 12
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1129
+x: 13
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1130
+x: 14
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1131
+x: 15
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1132
+x: 16
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1133
+x: 17
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1134
+x: 18
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1135
+x: 19
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1136
+x: 20
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1137
+x: 21
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1138
+x: 22
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1139
+x: 23
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1140
+x: 24
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1141
+x: 25
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1142
+x: 26
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1143
+x: 27
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1144
+x: 28
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1145
+x: 29
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1146
+x: 30
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1147
+x: 31
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1148
+x: 32
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1149
+x: 33
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1150
+x: 34
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1151
+x: 35
+y: 31
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1152
+x: 0
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1153
+x: 1
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1154
+x: 2
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1155
+x: 3
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1156
+x: 4
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1157
+x: 5
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1158
+x: 6
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1159
+x: 7
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1160
+x: 8
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1161
+x: 9
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1162
+x: 10
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1163
+x: 11
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1164
+x: 12
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1165
+x: 13
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1166
+x: 14
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1167
+x: 15
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1168
+x: 16
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: l
+uid: 1169
+x: 17
+y: 32
+graphID: 7
+coupleID: 8
+actChildren: -6
+
+type: floor
+uid: 1170
+x: 18
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1171
+x: 19
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1172
+x: 20
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1173
+x: 21
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1174
+x: 22
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1175
+x: 23
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1176
+x: 24
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1177
+x: 25
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1178
+x: 26
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1179
+x: 27
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1180
+x: 28
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1181
+x: 29
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1182
+x: 30
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1183
+x: 31
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1184
+x: 32
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1185
+x: 33
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1186
+x: 34
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1187
+x: 35
+y: 32
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1188
+x: 0
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1189
+x: 1
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1190
+x: 2
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1191
+x: 3
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1192
+x: 4
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1193
+x: 5
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1194
+x: 6
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1195
+x: 7
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1196
+x: 8
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1197
+x: 9
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1198
+x: 10
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1199
+x: 11
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1200
+x: 12
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1201
+x: 13
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1202
+x: 14
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1203
+x: 15
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1204
+x: 16
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: l
+uid: 1205
+x: 17
+y: 33
+graphID: 7
+coupleID: 8
+actChildren: -6
+
+type: floor
+uid: 1206
+x: 18
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1207
+x: 19
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1208
+x: 20
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: g
+uid: 1209
+x: 21
+y: 33
+graphID: 8
+coupleID: 0
+actChildren: 
+
+type: floor
+uid: 1210
+x: 22
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1211
+x: 23
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1212
+x: 24
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1213
+x: 25
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1214
+x: 26
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1215
+x: 27
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1216
+x: 28
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1217
+x: 29
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1218
+x: 30
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1219
+x: 31
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1220
+x: 32
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1221
+x: 33
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1222
+x: 34
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1223
+x: 35
+y: 33
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1224
+x: 0
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1225
+x: 1
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1226
+x: 2
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1227
+x: 3
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1228
+x: 4
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1229
+x: 5
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1230
+x: 6
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1231
+x: 7
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1232
+x: 8
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1233
+x: 9
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1234
+x: 10
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1235
+x: 11
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1236
+x: 12
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1237
+x: 13
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1238
+x: 14
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1239
+x: 15
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1240
+x: 16
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1241
+x: 17
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1242
+x: 18
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1243
+x: 19
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1244
+x: 20
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1245
+x: 21
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: floor
+uid: 1246
+x: 22
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1247
+x: 23
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1248
+x: 24
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1249
+x: 25
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1250
+x: 26
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1251
+x: 27
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1252
+x: 28
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1253
+x: 29
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1254
+x: 30
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1255
+x: 31
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1256
+x: 32
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1257
+x: 33
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1258
+x: 34
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1259
+x: 35
+y: 34
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1260
+x: 0
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1261
+x: 1
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1262
+x: 2
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1263
+x: 3
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1264
+x: 4
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1265
+x: 5
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1266
+x: 6
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1267
+x: 7
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1268
+x: 8
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1269
+x: 9
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1270
+x: 10
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1271
+x: 11
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1272
+x: 12
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1273
+x: 13
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1274
+x: 14
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1275
+x: 15
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1276
+x: 16
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1277
+x: 17
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1278
+x: 18
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1279
+x: 19
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1280
+x: 20
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1281
+x: 21
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1282
+x: 22
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: wall
+uid: 1283
+x: 23
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1284
+x: 24
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1285
+x: 25
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1286
+x: 26
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1287
+x: 27
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1288
+x: 28
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1289
+x: 29
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1290
+x: 30
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1291
+x: 31
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1292
+x: 32
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1293
+x: 33
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1294
+x: 34
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
+type: empty
+uid: 1295
+x: 35
+y: 35
+graphID: -1
+coupleID: -1
+actChildren: 
+
